@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "051b9855-72bb-48f6-b605-063fd514f50c",
+            "Value": {
+                "id": "b4e5a828-a848-4b44-bf91-a854ddec7218",
+                "resourcePath": "rooms\\AboutUsRoom\\AboutUsRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "05f4b56b-8686-4dbd-90cf-1ef120247ae7",
             "Value": {
                 "id": "1868f2cb-0efa-46d5-a80f-38a3c67e2bcb",
@@ -44,6 +52,30 @@
                 "id": "d2c13160-d7c4-4225-9752-2b4e5c2ef26a",
                 "resourcePath": "views\\0a1fc579-f58d-40df-bc9b-b24f610cc78a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0bff46c5-d223-4142-8deb-44c5ec05a9e8",
+            "Value": {
+                "id": "19aeebad-268d-460b-aedb-a412bbe791d5",
+                "resourcePath": "views\\0bff46c5-d223-4142-8deb-44c5ec05a9e8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0ff253a6-f501-444b-af35-cde18fce8518",
+            "Value": {
+                "id": "16b7f28a-9886-47d9-9fcb-7b212cf1c974",
+                "resourcePath": "views\\0ff253a6-f501-444b-af35-cde18fce8518.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "17eba880-359f-44d8-9896-7ece4a081205",
+            "Value": {
+                "id": "8b06bb2b-ec09-4c00-91b0-1a38a8391ed0",
+                "resourcePath": "objects\\CloseGameText\\CloseGameText.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -79,6 +111,14 @@
             }
         },
         {
+            "Key": "2bd98983-a70e-414a-9448-4d479e8ef966",
+            "Value": {
+                "id": "23546ded-53fe-4311-b6c5-ec86f33b83a8",
+                "resourcePath": "objects\\AboutUsClickableObject\\AboutUsClickableObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "30139da9-54d6-4d01-a615-f50b9b05d26e",
             "Value": {
                 "id": "e180e21c-2ea5-4e7f-8ce4-184d6521f6aa",
@@ -100,6 +140,14 @@
                 "id": "399ffdf3-211e-4094-9a1a-9c7999a6d304",
                 "resourcePath": "options\\ps4\\options_ps4.yy",
                 "resourceType": "GMPS4Options"
+            }
+        },
+        {
+            "Key": "3aeacc20-ea44-47ff-9a30-2dbef4e358ad",
+            "Value": {
+                "id": "1fdd2fe1-bc8a-4f85-90f9-bead3b6ceeed",
+                "resourcePath": "objects\\CrashToExit\\CrashToExit.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -151,11 +199,35 @@
             }
         },
         {
+            "Key": "6e63208f-ebe8-4065-a87e-68e0ec261d8c",
+            "Value": {
+                "id": "229dbf8f-3f8d-44e3-9466-bca474819b70",
+                "resourcePath": "rooms\\ExitCrashRoom\\ExitCrashRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "70274804-bb38-4eb2-95fe-c026a67929c2",
+            "Value": {
+                "id": "a868d0c9-b23c-4afd-8e9f-17dc8f47574d",
+                "resourcePath": "fonts\\MainFont\\MainFont.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "befa014a-c572-44e6-a99e-dd0744d56356",
                 "resourcePath": "options\\html5\\options_html5.yy",
                 "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "7cb2fff5-2776-4cb4-b5d8-3f9f47295a7f",
+            "Value": {
+                "id": "9a18ce31-5641-4155-9cd1-3e6edfef7d22",
+                "resourcePath": "objects\\ExitGameClickableObject\\ExitGameClickableObject.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -175,10 +247,18 @@
             }
         },
         {
-            "Key": "8ec33633-27d1-473c-82ad-32ff98c2ccab",
+            "Key": "874d6d70-fd28-43b0-914c-f71d22c9fe1c",
             "Value": {
-                "id": "6ce46a2f-051c-442e-8245-9284cb16bd30",
-                "resourcePath": "objects\\CustomCursorObject\\CustomCursorObject.yy",
+                "id": "8e32e812-96bc-490c-bab8-88268c2eebe2",
+                "resourcePath": "rooms\\MainGameRoom\\MainGameRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "9b3f9b6f-b821-4821-a4e0-434c0558ccd5",
+            "Value": {
+                "id": "d0d911f5-5c51-431e-a20b-a7f90325248f",
+                "resourcePath": "objects\\AboutGameText\\AboutGameText.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -215,6 +295,14 @@
             }
         },
         {
+            "Key": "b10965bd-3bc3-4f37-9f39-871f4a927943",
+            "Value": {
+                "id": "676fdee9-0a30-4c1f-b4b6-98da55acc9e5",
+                "resourcePath": "objects\\StartGameClickableObject\\StartGameClickableObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b1b4c787-d791-499f-af4b-0cbed1872fa5",
             "Value": {
                 "id": "09967b84-fdc0-4613-a3a4-dea7ee6678a2",
@@ -223,11 +311,35 @@
             }
         },
         {
+            "Key": "b7c1a53c-5cd4-44f0-8160-58e0d3b95fd3",
+            "Value": {
+                "id": "97600d2c-8315-4325-b43c-556e8c60ec10",
+                "resourcePath": "objects\\StartGameText\\StartGameText.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ca0cb863-e61b-43dd-9a8a-bd140cbfceb6",
+            "Value": {
+                "id": "7dcba120-902e-40f0-8a36-4a1be1d8da90",
+                "resourcePath": "sprites\\ShutdownCrashSprite\\ShutdownCrashSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "acd81c04-a04d-4c27-9fd2-d02450dd3911",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ced85e3c-5362-41e7-9e25-d4c4c8148634",
+            "Value": {
+                "id": "c4ada3c2-19dc-4d9b-beba-c2b4d2f026b6",
+                "resourcePath": "sprites\\ClickableSprite\\ClickableSprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
