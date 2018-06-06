@@ -1,13 +1,14 @@
 
 {
-    "name": "room0",
+    "name": "BootScreenRoom",
     "id": "48655c0d-ede6-4a20-bef2-8afd7d150c27",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-
+        "bb7d2579-5424-4490-af4e-c2e8718c0cbe",
+        "90a780d0-26d1-418f-b12c-97ddff50a426"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +26,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_62304D33","id": "bb7d2579-5424-4490-af4e-c2e8718c0cbe","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_62304D33","objId": "30139da9-54d6-4d01-a615-f50b9b05d26e","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 1472,"y": 352},
+{"name": "inst_511252B8","id": "90a780d0-26d1-418f-b12c-97ddff50a426","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_511252B8","objId": "8ec33633-27d1-473c-82ad-32ff98c2ccab","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 1504,"y": 352}
             ],
             "layers": [
 
@@ -41,9 +43,9 @@
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Background",
             "id": "683c4fc5-333c-4b92-9b1a-da4e5a004e2a",
-            "animationFPS": 15,
+            "animationFPS": 3,
             "animationSpeedType": "0",
-            "colour": { "Value": 4278190080 },
+            "colour": { "Value": 4294967295 },
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
@@ -62,7 +64,7 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "00000000-0000-0000-0000-000000000000",
+            "spriteId": "05f4b56b-8686-4dbd-90cf-1ef120247ae7",
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,

@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "05f4b56b-8686-4dbd-90cf-1ef120247ae7",
+            "Value": {
+                "id": "1868f2cb-0efa-46d5-a80f-38a3c67e2bcb",
+                "resourcePath": "sprites\\BootSprite\\BootSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0a1fc579-f58d-40df-bc9b-b24f610cc78a",
             "Value": {
                 "id": "d2c13160-d7c4-4225-9752-2b4e5c2ef26a",
@@ -71,6 +79,14 @@
             }
         },
         {
+            "Key": "30139da9-54d6-4d01-a615-f50b9b05d26e",
+            "Value": {
+                "id": "e180e21c-2ea5-4e7f-8ce4-184d6521f6aa",
+                "resourcePath": "objects\\changeFromBootToStartMenu\\changeFromBootToStartMenu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "33fafa16-8f51-44d9-bc99-99b0aafe3801",
             "Value": {
                 "id": "9e185c3a-a2de-4184-a91f-9dcccfe46fed",
@@ -98,7 +114,23 @@
             "Key": "48655c0d-ede6-4a20-bef2-8afd7d150c27",
             "Value": {
                 "id": "cd5109af-3deb-4e0d-a852-26a345edfa19",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\BootScreenRoom\\BootScreenRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "518ff380-1d0c-4e9f-8fd8-be1d2239e001",
+            "Value": {
+                "id": "e67a2526-df57-453b-9374-bdb576c2985a",
+                "resourcePath": "sprites\\CustomCursor\\CustomCursor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "52c2bb83-be88-4850-a3e5-613de355429e",
+            "Value": {
+                "id": "2d7c7cf8-546d-4cf5-a11e-df2a68745ca4",
+                "resourcePath": "rooms\\StartMenuRoom\\StartMenuRoom.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -140,6 +172,14 @@
                 "id": "c542fd51-a5db-47fc-81ca-7baa47b816da",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "8ec33633-27d1-473c-82ad-32ff98c2ccab",
+            "Value": {
+                "id": "6ce46a2f-051c-442e-8245-9284cb16bd30",
+                "resourcePath": "objects\\CustomCursorObject\\CustomCursorObject.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -188,6 +228,14 @@
                 "id": "acd81c04-a04d-4c27-9fd2-d02450dd3911",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cf6dc921-f106-4552-82ee-f86a4f6e89ca",
+            "Value": {
+                "id": "2350e45e-848a-496f-821b-3aa7028aa436",
+                "resourcePath": "sprites\\WelcomeScreenBackground\\WelcomeScreenBackground.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
