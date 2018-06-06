@@ -7,7 +7,7 @@
         "3aeacc20-ea44-47ff-9a30-2dbef4e358ad"
     ],
     "filterType": "GMObject",
-    "folderName": "ExitCrashRoom",
+    "folderName": "ExitCrashObjects",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
