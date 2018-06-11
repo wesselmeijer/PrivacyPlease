@@ -2,12 +2,13 @@
 {
     "name": "ExitCrashRoom",
     "id": "6e63208f-ebe8-4065-a87e-68e0ec261d8c",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "f5e0029e-8505-4b3f-8a0c-242f83b61cd2"
+        "f5e0029e-8505-4b3f-8a0c-242f83b61cd2",
+        "29bf9d45-2abd-45ba-8977-4f99f0f487ed"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +26,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_3C1B066C","id": "f5e0029e-8505-4b3f-8a0c-242f83b61cd2","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3C1B066C","objId": "3aeacc20-ea44-47ff-9a30-2dbef4e358ad","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 1760,"y": 128}
+{"name": "inst_3C1B066C","id": "f5e0029e-8505-4b3f-8a0c-242f83b61cd2","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3C1B066C","objId": "3aeacc20-ea44-47ff-9a30-2dbef4e358ad","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 1760,"y": 128},
+{"name": "inst_1260FB0A","id": "29bf9d45-2abd-45ba-8977-4f99f0f487ed","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1260FB0A","objId": "4257bff8-5cc2-4310-801a-6de795e95653","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 768,"y": 608}
             ],
             "layers": [
 

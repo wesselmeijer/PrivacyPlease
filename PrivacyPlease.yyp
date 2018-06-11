@@ -146,7 +146,15 @@
             "Key": "3aeacc20-ea44-47ff-9a30-2dbef4e358ad",
             "Value": {
                 "id": "1fdd2fe1-bc8a-4f85-90f9-bead3b6ceeed",
-                "resourcePath": "objects\\CrashToExit\\CrashToExit.yy",
+                "resourcePath": "objects\\CrashToBlueScreen\\CrashToBlueScreen.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4257bff8-5cc2-4310-801a-6de795e95653",
+            "Value": {
+                "id": "07fce9b1-c942-4aef-92ca-2555d70d93a0",
+                "resourcePath": "objects\\StuckCursor\\StuckCursor.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -164,6 +172,14 @@
                 "id": "cd5109af-3deb-4e0d-a852-26a345edfa19",
                 "resourcePath": "rooms\\BootScreenRoom\\BootScreenRoom.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "509289d5-481a-4f9b-92b1-3bfd15988795",
+            "Value": {
+                "id": "2b8706d3-225b-4a13-aa4c-6a6c6875a7c3",
+                "resourcePath": "objects\\BlueScreenExit\\BlueScreenExit.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -188,6 +204,14 @@
                 "id": "aa92d7c6-6e32-4477-a67d-57b06c2c23e4",
                 "resourcePath": "views\\5fd83696-cf83-456a-bdb7-5a7f42fe2f72.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "62abaa43-73ea-4e17-b1be-b3d2f52c60a7",
+            "Value": {
+                "id": "26f7fd9a-cb61-4c5e-a1c8-8205a140db15",
+                "resourcePath": "sprites\\BlueScreen\\BlueScreen.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -388,6 +412,14 @@
                 "id": "ee87cc3b-8309-41c8-b54c-51271bd37ee8",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f653da8a-fabd-460d-b85c-042a9d35e370",
+            "Value": {
+                "id": "ffd31d7a-8ccb-4ad4-95c7-057ad22f52b4",
+                "resourcePath": "rooms\\BlueScreenRoom\\BlueScreenRoom.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

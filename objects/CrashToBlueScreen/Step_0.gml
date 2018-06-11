@@ -1,5 +1,5 @@
 	
-if(alarm[0] <= 30){
+if(alarm[0] <= 0){
 	//game_end();
 	room_goto(BlueScreenRoom);
 }
