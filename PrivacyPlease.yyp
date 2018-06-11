@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "2bd21471-88db-4d68-965a-3e1a9ee9458e",
+            "Value": {
+                "id": "8ba782b0-2282-472c-8bda-cb68189f4ce9",
+                "resourcePath": "views\\2bd21471-88db-4d68-965a-3e1a9ee9458e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "2bd98983-a70e-414a-9448-4d479e8ef966",
             "Value": {
                 "id": "23546ded-53fe-4311-b6c5-ec86f33b83a8",
@@ -164,6 +172,14 @@
                 "id": "fbbd1102-c974-42fa-ab14-27f4735b51bc",
                 "resourcePath": "views\\426d459d-ebd1-443f-a363-01d652fb99b7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "45f7e09d-8630-4f71-9a08-5921ead6a132",
+            "Value": {
+                "id": "67447090-e728-4f5c-aa54-a22ec998f19b",
+                "resourcePath": "objects\\Mail\\Mail.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -279,6 +295,22 @@
             }
         },
         {
+            "Key": "882857bb-a27b-4e9a-ae6f-a13094c292bd",
+            "Value": {
+                "id": "0a1d2a03-ff83-4351-b136-927a19fa26e6",
+                "resourcePath": "sprites\\OutlookIconSprite\\OutlookIconSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8b5736bc-76f2-4fb0-b9b8-54d7c7bf5620",
+            "Value": {
+                "id": "dd182c7e-cbfb-4dc4-90d6-3a7f6002e056",
+                "resourcePath": "objects\\ToPreviousRoom\\ToPreviousRoom.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9b3f9b6f-b821-4821-a4e0-434c0558ccd5",
             "Value": {
                 "id": "d0d911f5-5c51-431e-a20b-a7f90325248f",
@@ -324,6 +356,14 @@
                 "id": "180a076c-03f1-40d0-a17f-f7eee8441a62",
                 "resourcePath": "views\\adfd38d8-3ebe-4858-9f37-d2838e3d3655.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "aef58d5d-24e1-40b7-ab63-a74462d6702d",
+            "Value": {
+                "id": "0ecb874a-67e1-4eeb-b0c8-559458439bfb",
+                "resourcePath": "sprites\\EmailClientSprite\\EmailClientSprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -383,6 +423,14 @@
             }
         },
         {
+            "Key": "dd109ad4-267e-44b8-8712-3c88e07b5631",
+            "Value": {
+                "id": "122e9c42-b0a4-42b2-8bfb-5de6b1745e3d",
+                "resourcePath": "rooms\\EmailClientRoom\\EmailClientRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "7cce789a-750a-43d1-b461-1bf62bb0ce49",
@@ -399,6 +447,14 @@
             }
         },
         {
+            "Key": "e633ebfa-801c-47e2-aa67-d4f466456e90",
+            "Value": {
+                "id": "03b797c8-2576-47f2-ad8a-c71fc1bbe682",
+                "resourcePath": "objects\\OpenOutlook\\OpenOutlook.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ea1f7121-b765-4275-a4cc-abae367da4d2",
             "Value": {
                 "id": "aaaa612f-5247-4317-ad92-22feaa65f664",
@@ -411,6 +467,14 @@
             "Value": {
                 "id": "0e412caf-4b8f-4a66-a00b-d80cf28fec3f",
                 "resourcePath": "views\\ecb0e800-8ae4-470e-b8ed-d0830c871443.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "eed15205-6d1e-48f7-89e2-8678bd83ae30",
+            "Value": {
+                "id": "da19f25d-b77d-429b-996a-384692fd2e18",
+                "resourcePath": "views\\eed15205-6d1e-48f7-89e2-8678bd83ae30.yy",
                 "resourceType": "GMFolder"
             }
         },
