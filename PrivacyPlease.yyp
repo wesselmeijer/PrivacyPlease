@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "3dc1a979-968b-4918-ad1a-bfde30007d87",
+            "Value": {
+                "id": "62e8c321-18e3-4b83-8e51-216a6da62b43",
+                "resourcePath": "objects\\ExitToMainMenu\\ExitToMainMenu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4257bff8-5cc2-4310-801a-6de795e95653",
             "Value": {
                 "id": "07fce9b1-c942-4aef-92ca-2555d70d93a0",
@@ -204,6 +212,14 @@
                 "id": "fbbd1102-c974-42fa-ab14-27f4735b51bc",
                 "resourcePath": "views\\426d459d-ebd1-443f-a363-01d652fb99b7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "44784f04-42d7-4084-85a1-93322ed670ab",
+            "Value": {
+                "id": "68d972ec-1863-41ec-9584-593adc9df717",
+                "resourcePath": "objects\\OpenNotepad\\OpenNotepad.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -303,6 +319,14 @@
             }
         },
         {
+            "Key": "7a3e2048-9235-4470-a89c-073d740a9ee1",
+            "Value": {
+                "id": "24a83dcf-a1ff-4cd6-8032-60d0277d9ff9",
+                "resourcePath": "views\\7a3e2048-9235-4470-a89c-073d740a9ee1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "7cb2fff5-2776-4cb4-b5d8-3f9f47295a7f",
             "Value": {
                 "id": "9a18ce31-5641-4155-9cd1-3e6edfef7d22",
@@ -343,11 +367,27 @@
             }
         },
         {
+            "Key": "8a49bff2-d340-4a94-8f84-6cb2079a7b67",
+            "Value": {
+                "id": "50f0d537-e0be-4ec5-a9dd-cce0d1404d95",
+                "resourcePath": "rooms\\NotepadRoom\\NotepadRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "8b5736bc-76f2-4fb0-b9b8-54d7c7bf5620",
             "Value": {
                 "id": "dd182c7e-cbfb-4dc4-90d6-3a7f6002e056",
                 "resourcePath": "objects\\ToPreviousRoom\\ToPreviousRoom.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "976b4d65-2517-44cd-94a9-f460c8f9d6f4",
+            "Value": {
+                "id": "ac79aa49-0fc7-4af0-9dd3-84e469963bbc",
+                "resourcePath": "sprites\\NotepadSprite\\NotepadSprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -364,6 +404,14 @@
                 "id": "9aedd4f0-3d7e-40e8-bec3-11d96a34b500",
                 "resourcePath": "views\\a4bdd9db-f327-497a-9eac-2bbdc2fd3cfa.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a5e15916-ce21-4171-ba25-bfab183798f5",
+            "Value": {
+                "id": "7202c4d2-a983-4144-9295-13f74353db2c",
+                "resourcePath": "objects\\ShowBackground\\ShowBackground.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -436,6 +484,14 @@
                 "id": "97600d2c-8315-4325-b43c-556e8c60ec10",
                 "resourcePath": "objects\\StartGameText\\StartGameText.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "beddee5d-560e-4724-b02c-260e7cd587c2",
+            "Value": {
+                "id": "1cb33594-4313-45c2-bb39-f1b725515f65",
+                "resourcePath": "sprites\\NotepadIconSprite\\NotepadIconSprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

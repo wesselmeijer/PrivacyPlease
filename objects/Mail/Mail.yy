@@ -5,16 +5,6 @@
     "name": "Mail",
     "eventList": [
         {
-            "id": "d6c6ccd6-b11e-4d42-af30-cf5670dc6447",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "45f7e09d-8630-4f71-9a08-5921ead6a132"
-        },
-        {
             "id": "450ed35a-6a37-46d3-8a33-320bfc88501f",
             "modelName": "GMEvent",
             "mvc": "1.0",
