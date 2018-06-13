@@ -1,1 +1,1 @@
-room_goto(MainGameRoom);
+room_goto(StartDayRoom);

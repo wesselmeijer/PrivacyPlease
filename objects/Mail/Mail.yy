@@ -139,6 +139,20 @@
             "value": "0",
             "varName": "Sender",
             "varType": 2
+        },
+        {
+            "id": "b98ea2e7-cc69-4588-8c94-d38f2ffbafbd",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "Type",
+            "varType": 2
         }
     ],
     "solid": false,

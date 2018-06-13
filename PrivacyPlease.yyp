@@ -71,10 +71,26 @@
             }
         },
         {
+            "Key": "13816e99-4f5a-4d0c-8022-bc3a3b20678e",
+            "Value": {
+                "id": "2020a655-e49a-4bbf-85d7-8d893529e88f",
+                "resourcePath": "objects\\MoneyObject\\MoneyObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "17eba880-359f-44d8-9896-7ece4a081205",
             "Value": {
                 "id": "8b06bb2b-ec09-4c00-91b0-1a38a8391ed0",
                 "resourcePath": "objects\\CloseGameText\\CloseGameText.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1c10dd66-b19d-46d5-8d15-a7c04e756668",
+            "Value": {
+                "id": "69c1788c-85b4-4289-8709-5c4fec07f8b9",
+                "resourcePath": "objects\\DayCounter\\DayCounter.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -92,6 +108,14 @@
                 "id": "50850069-4ece-4c59-99c9-2b993147c622",
                 "resourcePath": "views\\1e39ce8d-eb43-4122-825e-899a1175dbe7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "244fff40-a216-4dce-a3f6-97cef7c551da",
+            "Value": {
+                "id": "a7c8c678-8a34-42aa-a846-4029897d94c7",
+                "resourcePath": "objects\\globals\\globals.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -159,6 +183,14 @@
             }
         },
         {
+            "Key": "3b230958-e831-4226-a4e6-0817dd5e48f2",
+            "Value": {
+                "id": "acae6185-8ba2-4880-ba67-b46328fada4c",
+                "resourcePath": "rooms\\StartDayRoom\\StartDayRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "4257bff8-5cc2-4310-801a-6de795e95653",
             "Value": {
                 "id": "07fce9b1-c942-4aef-92ca-2555d70d93a0",
@@ -188,6 +220,14 @@
                 "id": "cd5109af-3deb-4e0d-a852-26a345edfa19",
                 "resourcePath": "rooms\\BootScreenRoom\\BootScreenRoom.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "4fc617df-689e-423e-ad3f-2e4a1a7373a1",
+            "Value": {
+                "id": "1c98bd72-06c9-406d-a7d3-2c16ced589cd",
+                "resourcePath": "objects\\StartDayScreenToMainScreen\\StartDayScreenToMainScreen.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -348,6 +388,14 @@
                 "id": "182afe84-55cb-45fd-91e8-0156ec5f04e5",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "aa3d0e85-d9fb-4927-bd6b-417637d8202f",
+            "Value": {
+                "id": "58265abe-e710-43a0-bfcb-92714f09baa8",
+                "resourcePath": "views\\aa3d0e85-d9fb-4927-bd6b-417637d8202f.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
