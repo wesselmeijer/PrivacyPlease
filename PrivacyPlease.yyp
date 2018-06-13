@@ -71,10 +71,26 @@
             }
         },
         {
+            "Key": "13816e99-4f5a-4d0c-8022-bc3a3b20678e",
+            "Value": {
+                "id": "2020a655-e49a-4bbf-85d7-8d893529e88f",
+                "resourcePath": "objects\\MoneyObject\\MoneyObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "17eba880-359f-44d8-9896-7ece4a081205",
             "Value": {
                 "id": "8b06bb2b-ec09-4c00-91b0-1a38a8391ed0",
                 "resourcePath": "objects\\CloseGameText\\CloseGameText.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1c10dd66-b19d-46d5-8d15-a7c04e756668",
+            "Value": {
+                "id": "69c1788c-85b4-4289-8709-5c4fec07f8b9",
+                "resourcePath": "objects\\DayCounter\\DayCounter.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -95,6 +111,14 @@
             }
         },
         {
+            "Key": "244fff40-a216-4dce-a3f6-97cef7c551da",
+            "Value": {
+                "id": "a7c8c678-8a34-42aa-a846-4029897d94c7",
+                "resourcePath": "objects\\globals\\globals.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "26fe47d5-c87a-4c99-ad85-5c76be6fe137",
             "Value": {
                 "id": "8124ef94-c181-494e-816c-f4ab00e2c36e",
@@ -107,6 +131,14 @@
             "Value": {
                 "id": "8024b6fa-f97f-4f41-bffb-61d3beb095b5",
                 "resourcePath": "views\\2ad2483a-b9c4-40c0-9fe4-45112a898d91.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2bd21471-88db-4d68-965a-3e1a9ee9458e",
+            "Value": {
+                "id": "8ba782b0-2282-472c-8bda-cb68189f4ce9",
+                "resourcePath": "views\\2bd21471-88db-4d68-965a-3e1a9ee9458e.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -151,6 +183,14 @@
             }
         },
         {
+            "Key": "3b230958-e831-4226-a4e6-0817dd5e48f2",
+            "Value": {
+                "id": "acae6185-8ba2-4880-ba67-b46328fada4c",
+                "resourcePath": "rooms\\StartDayRoom\\StartDayRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "4257bff8-5cc2-4310-801a-6de795e95653",
             "Value": {
                 "id": "07fce9b1-c942-4aef-92ca-2555d70d93a0",
@@ -167,11 +207,27 @@
             }
         },
         {
+            "Key": "45f7e09d-8630-4f71-9a08-5921ead6a132",
+            "Value": {
+                "id": "67447090-e728-4f5c-aa54-a22ec998f19b",
+                "resourcePath": "objects\\Mail\\Mail.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "48655c0d-ede6-4a20-bef2-8afd7d150c27",
             "Value": {
                 "id": "cd5109af-3deb-4e0d-a852-26a345edfa19",
                 "resourcePath": "rooms\\BootScreenRoom\\BootScreenRoom.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "4fc617df-689e-423e-ad3f-2e4a1a7373a1",
+            "Value": {
+                "id": "1c98bd72-06c9-406d-a7d3-2c16ced589cd",
+                "resourcePath": "objects\\StartDayScreenToMainScreen\\StartDayScreenToMainScreen.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -279,6 +335,22 @@
             }
         },
         {
+            "Key": "882857bb-a27b-4e9a-ae6f-a13094c292bd",
+            "Value": {
+                "id": "0a1d2a03-ff83-4351-b136-927a19fa26e6",
+                "resourcePath": "sprites\\OutlookIconSprite\\OutlookIconSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8b5736bc-76f2-4fb0-b9b8-54d7c7bf5620",
+            "Value": {
+                "id": "dd182c7e-cbfb-4dc4-90d6-3a7f6002e056",
+                "resourcePath": "objects\\ToPreviousRoom\\ToPreviousRoom.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9b3f9b6f-b821-4821-a4e0-434c0558ccd5",
             "Value": {
                 "id": "d0d911f5-5c51-431e-a20b-a7f90325248f",
@@ -292,6 +364,14 @@
                 "id": "9aedd4f0-3d7e-40e8-bec3-11d96a34b500",
                 "resourcePath": "views\\a4bdd9db-f327-497a-9eac-2bbdc2fd3cfa.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a5f745f9-9d3e-460d-ae4c-5ebbe98b54dd",
+            "Value": {
+                "id": "cbe30f03-d208-42d7-bf66-cec0b64aaace",
+                "resourcePath": "sprites\\sprite6\\sprite6.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -311,11 +391,27 @@
             }
         },
         {
+            "Key": "aa3d0e85-d9fb-4927-bd6b-417637d8202f",
+            "Value": {
+                "id": "58265abe-e710-43a0-bfcb-92714f09baa8",
+                "resourcePath": "views\\aa3d0e85-d9fb-4927-bd6b-417637d8202f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "adfd38d8-3ebe-4858-9f37-d2838e3d3655",
             "Value": {
                 "id": "180a076c-03f1-40d0-a17f-f7eee8441a62",
                 "resourcePath": "views\\adfd38d8-3ebe-4858-9f37-d2838e3d3655.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "aef58d5d-24e1-40b7-ab63-a74462d6702d",
+            "Value": {
+                "id": "0ecb874a-67e1-4eeb-b0c8-559458439bfb",
+                "resourcePath": "sprites\\EmailClientSprite\\EmailClientSprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -375,6 +471,14 @@
             }
         },
         {
+            "Key": "dd109ad4-267e-44b8-8712-3c88e07b5631",
+            "Value": {
+                "id": "122e9c42-b0a4-42b2-8bfb-5de6b1745e3d",
+                "resourcePath": "rooms\\EmailClientRoom\\EmailClientRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "7cce789a-750a-43d1-b461-1bf62bb0ce49",
@@ -391,6 +495,14 @@
             }
         },
         {
+            "Key": "e633ebfa-801c-47e2-aa67-d4f466456e90",
+            "Value": {
+                "id": "03b797c8-2576-47f2-ad8a-c71fc1bbe682",
+                "resourcePath": "objects\\OpenOutlook\\OpenOutlook.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ea1f7121-b765-4275-a4cc-abae367da4d2",
             "Value": {
                 "id": "aaaa612f-5247-4317-ad92-22feaa65f664",
@@ -403,6 +515,14 @@
             "Value": {
                 "id": "0e412caf-4b8f-4a66-a00b-d80cf28fec3f",
                 "resourcePath": "views\\ecb0e800-8ae4-470e-b8ed-d0830c871443.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "eed15205-6d1e-48f7-89e2-8678bd83ae30",
+            "Value": {
+                "id": "da19f25d-b77d-429b-996a-384692fd2e18",
+                "resourcePath": "views\\eed15205-6d1e-48f7-89e2-8678bd83ae30.yy",
                 "resourceType": "GMFolder"
             }
         },
