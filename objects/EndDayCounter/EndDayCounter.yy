@@ -1,18 +1,18 @@
 {
-    "id": "3dc1a979-968b-4918-ad1a-bfde30007d87",
+    "id": "ab75232c-5847-426d-b655-e59b9337e71f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "ExitToMainMenu",
+    "name": "EndDayCounter",
     "eventList": [
         {
-            "id": "105fbb59-b424-46aa-b44e-14b266ade87f",
+            "id": "e01c47ef-a360-493c-b281-f7f9d7a7ace3",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 4,
-            "eventtype": 6,
-            "m_owner": "3dc1a979-968b-4918-ad1a-bfde30007d87"
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "ab75232c-5847-426d-b655-e59b9337e71f"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "ced85e3c-5362-41e7-9e25-d4c4c8148634",
-    "visible": false
+    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "visible": true
 }

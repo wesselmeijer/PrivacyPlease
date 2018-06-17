@@ -1,18 +1,18 @@
 {
-    "id": "3dc1a979-968b-4918-ad1a-bfde30007d87",
+    "id": "6fab7eda-4161-4dfb-a02c-398fcda4a1fc",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "ExitToMainMenu",
+    "name": "MoneyTable",
     "eventList": [
         {
-            "id": "105fbb59-b424-46aa-b44e-14b266ade87f",
+            "id": "9a50beac-fd7d-4196-bda8-951802905cdb",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 4,
-            "eventtype": 6,
-            "m_owner": "3dc1a979-968b-4918-ad1a-bfde30007d87"
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "6fab7eda-4161-4dfb-a02c-398fcda4a1fc"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "ced85e3c-5362-41e7-9e25-d4c4c8148634",
-    "visible": false
+    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "visible": true
 }

@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "1bbab683-661a-4e93-9ead-19e7cb36689e",
+            "Value": {
+                "id": "de294312-35d7-4a11-be1a-ef093b5c2ccd",
+                "resourcePath": "views\\1bbab683-661a-4e93-9ead-19e7cb36689e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "1c10dd66-b19d-46d5-8d15-a7c04e756668",
             "Value": {
                 "id": "69c1788c-85b4-4289-8709-5c4fec07f8b9",
@@ -108,6 +116,14 @@
                 "id": "50850069-4ece-4c59-99c9-2b993147c622",
                 "resourcePath": "views\\1e39ce8d-eb43-4122-825e-899a1175dbe7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "231bdc65-eee3-494b-90d2-a4189a3c9415",
+            "Value": {
+                "id": "6f05c4c2-ec48-498f-b3e4-592d1b742104",
+                "resourcePath": "objects\\ChooseAnswer2\\ChooseAnswer2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -303,6 +319,14 @@
             }
         },
         {
+            "Key": "6fab7eda-4161-4dfb-a02c-398fcda4a1fc",
+            "Value": {
+                "id": "450854eb-3e34-4800-bc90-f222197b2099",
+                "resourcePath": "objects\\MoneyTable\\MoneyTable.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "70274804-bb38-4eb2-95fe-c026a67929c2",
             "Value": {
                 "id": "a868d0c9-b23c-4afd-8e9f-17dc8f47574d",
@@ -316,6 +340,14 @@
                 "id": "befa014a-c572-44e6-a99e-dd0744d56356",
                 "resourcePath": "options\\html5\\options_html5.yy",
                 "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "796d2bf7-0d4b-40d8-90fb-f296c5ce57f6",
+            "Value": {
+                "id": "80e79ffa-5066-4165-8d93-5ea7cc2430cc",
+                "resourcePath": "rooms\\GameOverRoom\\GameOverRoom.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -447,6 +479,22 @@
             }
         },
         {
+            "Key": "aa7fdacf-7c2d-4838-8d07-59fbd92ba811",
+            "Value": {
+                "id": "f17c7264-34d3-48d0-96ad-9b460855d098",
+                "resourcePath": "rooms\\EndDayRoom\\EndDayRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "ab75232c-5847-426d-b655-e59b9337e71f",
+            "Value": {
+                "id": "a56dc068-1b61-4244-a880-539cbcb60272",
+                "resourcePath": "objects\\EndDayCounter\\EndDayCounter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "adfd38d8-3ebe-4858-9f37-d2838e3d3655",
             "Value": {
                 "id": "180a076c-03f1-40d0-a17f-f7eee8441a62",
@@ -487,11 +535,27 @@
             }
         },
         {
+            "Key": "bd3b1fae-4969-4ae2-9370-ab8cf56eeab8",
+            "Value": {
+                "id": "0b08b367-cd2a-4419-b651-416b14822c78",
+                "resourcePath": "objects\\ChooseAnswer1\\ChooseAnswer1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "beddee5d-560e-4724-b02c-260e7cd587c2",
             "Value": {
                 "id": "1cb33594-4313-45c2-bb39-f1b725515f65",
                 "resourcePath": "sprites\\NotepadIconSprite\\NotepadIconSprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c1958857-2b34-4abe-b6fd-fbb73674c287",
+            "Value": {
+                "id": "cfa3cbbb-e8a5-4d1a-a7f7-27f80697ae29",
+                "resourcePath": "objects\\NextDayButton\\NextDayButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {

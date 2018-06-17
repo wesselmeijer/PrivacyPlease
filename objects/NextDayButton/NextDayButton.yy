@@ -1,18 +1,18 @@
 {
-    "id": "3dc1a979-968b-4918-ad1a-bfde30007d87",
+    "id": "c1958857-2b34-4abe-b6fd-fbb73674c287",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "ExitToMainMenu",
+    "name": "NextDayButton",
     "eventList": [
         {
-            "id": "105fbb59-b424-46aa-b44e-14b266ade87f",
+            "id": "89ebf983-a370-4037-b0c6-3a6f2b7ec77c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 4,
             "eventtype": 6,
-            "m_owner": "3dc1a979-968b-4918-ad1a-bfde30007d87"
+            "m_owner": "c1958857-2b34-4abe-b6fd-fbb73674c287"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -34,5 +34,5 @@
     "properties": null,
     "solid": false,
     "spriteId": "ced85e3c-5362-41e7-9e25-d4c4c8148634",
-    "visible": false
+    "visible": true
 }
