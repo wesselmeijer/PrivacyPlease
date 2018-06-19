@@ -140,7 +140,7 @@ global.Senders[14] = "day14@day14.nl";
 global.Content[14] = "";
 global.Answer1[14] = "";
 global.Answer2[14] = "";
-global.CorrectAnswers[14] = ;
+global.CorrectAnswers[14] = "";
 global.Background[14] = "";
 global.Explanation[14] = "";
 
