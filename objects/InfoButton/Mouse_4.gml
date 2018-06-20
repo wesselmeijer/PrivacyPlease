@@ -1,0 +1,1 @@
+url_open(global.Urls[global.wrongAnswerIndices[global.currentWrongAnswerIndex]])

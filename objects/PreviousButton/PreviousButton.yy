@@ -1,10 +1,19 @@
 {
-    "id": "28e22cf3-def8-4e09-b658-bd80fe19e4ce",
+    "id": "a6e7c867-64ba-4620-b191-2840cbb013b5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "StatisticsObjects",
+    "name": "PreviousButton",
     "eventList": [
-        
+        {
+            "id": "57097d47-463f-431a-b1c6-db00d8b93447",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "a6e7c867-64ba-4620-b191-2840cbb013b5"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "12b4befb-90a1-4cff-973a-7d59e82bbba1",
     "visible": true
 }
