@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "09c62c82-92f5-483f-9c6b-954554f93c9e",
+            "Value": {
+                "id": "bff724f5-f6ea-47c4-90f7-1d616063e7d5",
+                "resourcePath": "objects\\ClippyTextBoxObject\\ClippyTextBoxObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0a1fc579-f58d-40df-bc9b-b24f610cc78a",
             "Value": {
                 "id": "d2c13160-d7c4-4225-9752-2b4e5c2ef26a",
@@ -255,6 +263,14 @@
             }
         },
         {
+            "Key": "34ddde38-db17-4373-b1b9-ba9bfc506e93",
+            "Value": {
+                "id": "e1c139e7-1fe7-4c7d-a329-f975c1557ab1",
+                "resourcePath": "objects\\ClippyObject\\ClippyObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3a5af38c-757d-44ae-98c0-5d4b09e14e6a",
             "Value": {
                 "id": "399ffdf3-211e-4094-9a1a-9c7999a6d304",
@@ -375,20 +391,19 @@
             }
         },
         {
-
-            "Key": "59d0f2fc-6a94-4af3-832a-ca365e77efd3",
-            "Value": {
-                "id": "9464aa4b-5fd9-4d9c-bb06-46bbd284f61a",
-                "resourcePath": "objects\\OutlookTutorial\\OutlookTutorial.yy",
-                "resourceType": "GMObject"
-			}
-		},
-		{	
             "Key": "59919fd3-b84f-4111-9d7c-3cedd30ebcb2",
             "Value": {
                 "id": "d782db6e-6cba-4529-9321-6358006efe0a",
                 "resourcePath": "sprites\\StartupPaper\\StartupPaper.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "59d0f2fc-6a94-4af3-832a-ca365e77efd3",
+            "Value": {
+                "id": "9464aa4b-5fd9-4d9c-bb06-46bbd284f61a",
+                "resourcePath": "objects\\OutlookTutorial\\OutlookTutorial.yy",
+                "resourceType": "GMObject"
             }
         },
         {
