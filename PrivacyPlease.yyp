@@ -383,6 +383,14 @@
             }
         },
         {
+            "Key": "466bedeb-35b6-4109-8bdb-9f3a17a12466",
+            "Value": {
+                "id": "4e55eca8-041e-41c9-9bd6-6f418d6b7af3",
+                "resourcePath": "objects\\PlayErrorObject\\PlayErrorObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "48655c0d-ede6-4a20-bef2-8afd7d150c27",
             "Value": {
                 "id": "cd5109af-3deb-4e0d-a852-26a345edfa19",
@@ -615,11 +623,20 @@
             }
         },
         {
+
             "Key": "9112cc3d-fa69-41ac-ab34-10c17bbafc06",
             "Value": {
                 "id": "1bd3f972-6dba-477f-b1b1-a1b0371d72cf",
                 "resourcePath": "sprites\\answeringQuestions\\answeringQuestions.yy",
                 "resourceType": "GMSprite"
+			}
+		},
+		{
+            "Key": "8e534ce9-d4df-41d4-a655-a621c2218f41",
+            "Value": {
+                "id": "11dce97e-0aa8-42df-ae52-1c2fa971bee6",
+                "resourcePath": "sounds\\ErrorSound\\ErrorSound.yy",
+                "resourceType": "GMSound"
             }
         },
         {

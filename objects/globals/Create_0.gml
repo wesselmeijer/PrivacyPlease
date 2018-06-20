@@ -8,6 +8,7 @@ global.UserAnswers = []; // User input
 global.Answers1 = [];
 global.Answers2 = [];
 global.Explanation = [];
+global.Urls = [];
 
 //Day 0
 global.Senders[0] = "day0@day0.nl";
@@ -17,6 +18,7 @@ global.Answer2[0] = "I ask John for some personal information to verify his iden
 global.CorrectAnswers[0] = 1;
 global.Background[0] = "People can request data about themselves.";
 global.Explanation[0] = "You are obligated to send all personal data to someone within 4 weeks. However, you have to take steps to verify the identity of the inquirer.";
+global.Urls[0] = "https://gdpr-info.eu/art-15-gdpr/";
 
 //Day 1
 global.Senders[1] = "day1@day1.nl";
@@ -26,6 +28,7 @@ global.Answer2[1] = "Investigate all personal data regarding John and delete eve
 global.CorrectAnswers[1] = 2;
 global.Background[1] = "People can request that information is removed about them.";
 global.Explanation[1] = "You are obligated to delete any personal data if someone asks to. However you still might need some information for for example tax authorities. Anonymize this data as far as possible and inform the person of the steps you have taken.";
+global.Urls[1] = "https://gdpr-info.eu/art-17-gdpr/;
 
 //Day 2
 global.Senders[2] = "day2@day2.nl";
@@ -35,6 +38,7 @@ global.Answer2[2] = "Immediately inform the authorities and your customers of th
 global.CorrectAnswers[2] = 2;
 global.Background[2] = "Possible data leaks regarding personal data must be reported.";
 global.Explanation[2] = "The GDPR states privacy risks, such as data breaches, have to be reported \“without undue delay\” (72 hours) about their possible theft of personal data. John says he needs 4 days to assess the situation so you cannot wait for him and have to inform ALL of your customers.";
+global.Urls[2] = "https://gdpr-info.eu/art-34-gdpr/";
 
 //Day 3
 global.Senders[3] = "day3@day3.nl";
@@ -44,6 +48,7 @@ global.Answer2[3] = "Send Jane an email asking if you can subscribe her to the n
 global.CorrectAnswers[3] = 2;
 global.Background[3] = "Personal data may only be used for purposes agreed to by the subject.";
 global.Explanation[3] = "Just subscribing someone because they expressed interest or they shared their email address is not allowed. This piece of personal information was shared with you for another reason, not for sending newsletters. You can only subscribe her if she specifically agrees.";
+global.Urls[3] = "https://gdpr-info.eu/art-5-gdpr/";
 
 //Day 4
 global.Senders[4] = "day4@day4.nl";
@@ -53,6 +58,7 @@ global.Answer2[4] = "You create an elaborate new model contract and sent it righ
 global.CorrectAnswers[4] = 1;
 global.Background[4] = "You may only store personal data if you really need to.";
 global.Explanation[4] = "You are not allowed to store any personal information if you do not need it. Having personal data 'just in case you might need it someday’ is forbidden. Furthermore, you have to indicate to the person why you are processing which piece of personal information";
+global.Urls[4] = "https://gdpr-info.eu/art-5-gdpr/";
 
 //Day 5
 global.Senders[5] = "day5@day5.nl";
@@ -62,6 +68,7 @@ global.Answer2[5] = "Tell Tim he’s right.";
 global.CorrectAnswers[5] = 1;
 global.Background[5] = "The GDPR applies to all European citizens.";
 global.Explanation[5] = "The GDPR applies to all European citizens. So if your company is not based in Europe but you store personal data regarding European citizens, their data is covered by the GDPR.";
+global.Urls[5] = "https://gdpr-info.eu/art-3-gdpr/";
 
 //Day 6
 global.Senders[6] = "day6@day6.nl";
@@ -71,6 +78,7 @@ global.Answer2[6] = "Look into the processes which company X will execute using 
 global.CorrectAnswers[6] = 2;
 global.Background[6] = "You are responsible for any data a subject has given you.";
 global.Explanation[6] = "When you share personal data with another companies, you are responsible for that data. When they decide to share the data with another party, you are the one who has to contact all those parties when the data subject chooses to execute their right to be forgotten.";
+global.Urls[6] = "https://gdpr-info.eu/art-45-gdpr/ ";
 
 //Day 7
 global.Senders[7] = "day7@day7.nl";
@@ -80,6 +88,7 @@ global.Answer2[7] = "Tell Kim you’ll schedule it.";
 global.CorrectAnswers[7] = 1;
 global.Background[7] = "Incorrect personal data must be rectified.";
 global.Explanation[7] = "The GDPR requires rectifications to be executed \“without undue delay\”, so whenever it is possible, a rectification must be made if requested.";
+global.Urls[7] = "https://gdpr-info.eu/art-16-gdpr/";
 
 //Day 8
 global.Senders[8] = "day8@day8.nl";
@@ -89,6 +98,7 @@ global.Answer2[8] = "E-mail Jane saying that this is a company secret";
 global.CorrectAnswers[8] = 1;
 global.Background[8] = "Data subjects have the right to know what their personal data is used for.";
 global.Explanation[8] = "According to the GDPR, with right of access comes being able to find out what is being done with your personal data and with which parties it is shared.";
+global.Urls[8] = "https://gdpr-info.eu/art-15-gdpr/";
 
 //Day 9
 global.Senders[9] = "day9@day9.nl";
@@ -98,6 +108,7 @@ global.Answer2[9] = "Give Walter the data of average conversions of everyone.";
 global.CorrectAnswers[9] = 1;
 global.Background[9] = "Storing data anonymously is a viable and legal option.";
 global.Explanation[9] = "The point of this question is finding out that conversion data is stored anonymously and thus doesn’t fall under GDPR.";
+global.Urls[9] = "https://gdpr-info.eu/recitals/no-26/";
 
 //Day 10
 global.Senders[10] = "day10@day10.nl";
@@ -107,6 +118,7 @@ global.Answer2[10] = "You must sent Jane Doe her personal data right away";
 global.CorrectAnswers[10] = 1;
 global.Background[10] = "Nothing new today.";
 global.Explanation[10] = "The point of this question is that Liechtenstein citizens do not fall under GDPR rules. Only EU member states are covered by the GDPR.";
+global.Urls[10] = "https://gdpr-info.eu/art-3-gdpr/";
 
 //Day 11
 global.Senders[11] = "day11@day11.nl";
@@ -116,6 +128,7 @@ global.Answer2[11] = "Give Tim a concise explanation of what data is being used 
 global.CorrectAnswers[11] = 2;
 global.Background[11] = "Descriptions of data processing should be easy to understand.";
 global.Explanation[11] = "The point of this question is that the GDPR requires simple, easy to understand privacy statements for people whose data is being used.";
+global.Urls[11] = "https://gdpr-info.eu/art-12-gdpr/";
 
 //Day 12
 global.Senders[12] = "day12@day12.nl";
@@ -125,6 +138,7 @@ global.Answer2[12] = "No, this is not affected by the GDPR regulations. We will 
 global.CorrectAnswers[12] = 1;
 global.Background[12] = "Document privacy risks.";
 global.Explanation[12] = "Data Protection Impact Assessments (DPIA) are to be carried out when high privacy risk personal data is being used. The following are a few of the categories that require a DPIA: Financial situation, personal genetics, blacklists, location data, communication data.";
+global.Urls[12] = "https://gdpr-info.eu/art-35-gdpr/";
 
 //Day 13
 global.Senders[13] = "day13@day13.nl";
@@ -134,6 +148,7 @@ global.Answer2[13] = "Do not send the information. Jelle can do that himself.";
 global.CorrectAnswers[13] = 1;
 global.Background[13] = "Data subjects have the right to have their data shared.";
 global.Explanation[13] = "You are obligated to share a subject’s data with a 3rd party per their request.";
+global.Urls[13] = "https://gdpr-info.eu/art-20-gdpr/";
 
 //Day 14
 global.Senders[14] = "day14@day14.nl";
@@ -143,6 +158,7 @@ global.Answer2[14] = "Do not change anything. A rogue employee who should not ha
 global.CorrectAnswers[14] = "2";
 global.Background[14] = "Personal data should be stored secure.";
 global.Explanation[14] = "Only employees who need to view personal data, should have access to the data they need, and only the data they need, nothing more.";
+global.Urls[14] = "https://gdpr-info.eu/art-32-gdpr/";
 
 //Day 15
 global.Senders[15] = "day15@day15.nl";
@@ -152,6 +168,7 @@ global.Answer2[15] = "Tell Wessel he should reach out to the People’s company 
 global.CorrectAnswers[15] = 1;
 global.Background[15] = "Nothing new today.";
 global.Explanation[15] = "You should send the information as you are the one processing the information.";
+global.Urls[15] = "https://bit.ly/2rM1AKq";
 
 //Day 16
 global.Senders[16] = "day16@day16.nl";
@@ -161,3 +178,4 @@ global.Answer2[16] = "Inform Roman that you as DPO personally handle the way you
 global.CorrectAnswers[16] = 1;
 global.Background[16] = "A Data Protection Officer (DPO) overlooks the way a company treats user data.";
 global.Explanation[16] = "As a Data Protection you, in any case, are NOT liable for GDPR violations. En end responsibility always lies with the company itself. You only have a advisory and regulatory role. ";
+global.Urls[16] = "https://gdpr-info.eu/art-39-gdpr/";
