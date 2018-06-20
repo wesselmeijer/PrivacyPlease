@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "03b3f155-b7e5-4b29-896b-4ef328cd2a46",
+            "Value": {
+                "id": "79edc763-e1e3-40cc-8054-a784fe9b6d39",
+                "resourcePath": "objects\\HowToUseNotepad\\HowToUseNotepad.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "04fdae0b-9e31-49c0-a4ed-9bf48172549a",
             "Value": {
                 "id": "308b072f-9ff5-4df0-8581-a0aa81b65e45",
@@ -316,6 +324,14 @@
                 "id": "9a5b3b9e-e2b1-42b2-afbc-4fb3dca3a3b8",
                 "resourcePath": "views\\55fbdfc4-7685-4d6d-8f64-5c9a90516b2c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "59d0f2fc-6a94-4af3-832a-ca365e77efd3",
+            "Value": {
+                "id": "9464aa4b-5fd9-4d9c-bb06-46bbd284f61a",
+                "resourcePath": "objects\\OutlookTutorial\\OutlookTutorial.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -631,6 +647,14 @@
             }
         },
         {
+            "Key": "c5e1ca63-3298-4416-917f-96a89a11a57e",
+            "Value": {
+                "id": "2c736a43-6174-40d1-a925-eacd24981d39",
+                "resourcePath": "objects\\MailTutorial\\MailTutorial.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c9102441-6569-45ca-aca2-46e7e0d64359",
             "Value": {
                 "id": "00007692-8e7b-4090-b5db-360bcac38aa5",
@@ -668,6 +692,14 @@
                 "id": "2350e45e-848a-496f-821b-3aa7028aa436",
                 "resourcePath": "sprites\\WelcomeScreenBackground\\WelcomeScreenBackground.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d030651d-45f3-407a-84a7-dfd0f38e74c6",
+            "Value": {
+                "id": "49a07012-b4c2-4ede-ab67-f5fa754f8ac2",
+                "resourcePath": "objects\\NotepadTutorial\\NotepadTutorial.yy",
+                "resourceType": "GMObject"
             }
         },
         {
