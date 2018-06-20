@@ -137,12 +137,12 @@ global.Explanation[13] = "You are obligated to share a subject’s data with a 3
 
 //Day 14
 global.Senders[14] = "day14@day14.nl";
-global.Content[14] = "";
-global.Answer1[14] = "";
-global.Answer2[14] = "";
-global.CorrectAnswers[14] = "";
-global.Background[14] = "";
-global.Explanation[14] = "";
+global.Content[14] = "Hey Alex,\n\nI have been checking out security and the database with personal data regarding our employees is heavily encrypted. Accessing the database takes quite some time so could you look into lowering the security for easier access?\n\nLinda";
+global.Answer1[14] = "Linda is right. The database is only accessible internally. Lower the security.";
+global.Answer2[14] = "Do not change anything. A rogue employee who should not have access might gain access.";
+global.CorrectAnswers[14] = "2";
+global.Background[14] = "Personal data should be stored secure.";
+global.Explanation[14] = "Only employees who need to view personal data, should have access to the data they need, and only the data they need, nothing more.";
 
 //Day 15
 global.Senders[15] = "day15@day15.nl";
