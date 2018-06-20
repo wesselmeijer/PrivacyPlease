@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "12e35143-2942-4d77-a74b-69100863b644",
+            "Value": {
+                "id": "3bb55ccd-413e-4fdc-8e29-d44ef09ae48a",
+                "resourcePath": "sprites\\Back\\Back.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "13816e99-4f5a-4d0c-8022-bc3a3b20678e",
             "Value": {
                 "id": "2020a655-e49a-4bbf-85d7-8d893529e88f",
@@ -559,6 +567,14 @@
             }
         },
         {
+            "Key": "8bb9e8c3-6500-4377-b6ae-102586a277dd",
+            "Value": {
+                "id": "eab45a8c-98a3-46dc-98e4-ee078fc33e52",
+                "resourcePath": "objects\\BackButton\\BackButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "94d5895f-7778-4c87-b909-35be3eb3800c",
             "Value": {
                 "id": "9006d134-d5a3-4c15-afa3-a86f7110ea69",
@@ -735,6 +751,14 @@
             }
         },
         {
+            "Key": "bf0dc62e-b08e-49ec-87e9-e2ecfe5fdfd4",
+            "Value": {
+                "id": "eef24dbb-e244-4537-a02c-5c9b4778a588",
+                "resourcePath": "sounds\\backgroundMusic\\backgroundMusic.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "c1958857-2b34-4abe-b6fd-fbb73674c287",
             "Value": {
                 "id": "cfa3cbbb-e8a5-4d1a-a7f7-27f80697ae29",
@@ -791,11 +815,27 @@
             }
         },
         {
+            "Key": "d007778b-c0cb-4ec5-b059-91385d2a8aab",
+            "Value": {
+                "id": "60d5d4e0-8b58-4cc6-a4b1-0863e94c4232",
+                "resourcePath": "sprites\\AboutUs\\AboutUs.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d030651d-45f3-407a-84a7-dfd0f38e74c6",
             "Value": {
                 "id": "49a07012-b4c2-4ede-ab67-f5fa754f8ac2",
                 "resourcePath": "objects\\NotepadTutorial\\NotepadTutorial.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "db86a0ea-a34a-4bf3-8c92-0d04f72ee8c5",
+            "Value": {
+                "id": "a2d5c033-bf12-4114-abb6-14f31965cf25",
+                "resourcePath": "views\\db86a0ea-a34a-4bf3-8c92-0d04f72ee8c5.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

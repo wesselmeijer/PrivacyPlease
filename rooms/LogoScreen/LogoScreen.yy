@@ -2,7 +2,7 @@
 {
     "name": "LogoScreen",
     "id": "2b93a0e1-8ead-4a56-9180-9414bd6287b9",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
