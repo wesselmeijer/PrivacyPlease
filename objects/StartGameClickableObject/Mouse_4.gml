@@ -1,1 +1,1 @@
-room_goto(StartDayRoom);
+room_goto(StartNewsPaperRoom);
