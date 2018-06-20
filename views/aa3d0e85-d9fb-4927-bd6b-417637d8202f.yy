@@ -6,7 +6,8 @@
     "children": [
         "1c10dd66-b19d-46d5-8d15-a7c04e756668",
         "4fc617df-689e-423e-ad3f-2e4a1a7373a1",
-        "878b3e88-8de5-4ac5-adbe-cbf1ea84cb46"
+        "878b3e88-8de5-4ac5-adbe-cbf1ea84cb46",
+        "5853d74e-45e8-4e75-930d-bd20fa7374e2"
     ],
     "filterType": "GMObject",
     "folderName": "StartDayObjects",

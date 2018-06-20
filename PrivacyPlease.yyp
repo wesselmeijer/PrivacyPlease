@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "118d79ec-d1b2-4857-9e1e-33786f37051b",
+            "Value": {
+                "id": "adbc49e9-1efd-4517-a8a7-324b502249b9",
+                "resourcePath": "objects\\answeringEmailBalloonObject\\answeringEmailBalloonObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "12e35143-2942-4d77-a74b-69100863b644",
             "Value": {
                 "id": "3bb55ccd-413e-4fdc-8e29-d44ef09ae48a",
@@ -287,6 +295,14 @@
             }
         },
         {
+            "Key": "3aa5cdb8-5f42-4c98-b7ae-1b3d6277fc0f",
+            "Value": {
+                "id": "44e10f6d-5341-4987-b519-e3067bb816aa",
+                "resourcePath": "objects\\mainScreenBalloonIntroObject\\mainScreenBalloonIntroObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3aeacc20-ea44-47ff-9a30-2dbef4e358ad",
             "Value": {
                 "id": "1fdd2fe1-bc8a-4f85-90f9-bead3b6ceeed",
@@ -359,11 +375,27 @@
             }
         },
         {
+            "Key": "47e65494-1bc5-49b4-a5bc-87ea9860c4b0",
+            "Value": {
+                "id": "95a66e25-51da-4c7d-9d80-5ba62b53a3cc",
+                "resourcePath": "sprites\\notepadBalloon\\notepadBalloon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "48655c0d-ede6-4a20-bef2-8afd7d150c27",
             "Value": {
                 "id": "cd5109af-3deb-4e0d-a852-26a345edfa19",
                 "resourcePath": "rooms\\BootScreenRoom\\BootScreenRoom.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "4eaaa1ae-6b40-4035-b6f7-a38f68fcbe50",
+            "Value": {
+                "id": "b72f1297-cee8-4c88-b3ab-8b3b77593a8c",
+                "resourcePath": "sprites\\outlookIntroBalloon\\outlookIntroBalloon.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -404,6 +436,14 @@
                 "id": "9a5b3b9e-e2b1-42b2-afbc-4fb3dca3a3b8",
                 "resourcePath": "views\\55fbdfc4-7685-4d6d-8f64-5c9a90516b2c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5853d74e-45e8-4e75-930d-bd20fa7374e2",
+            "Value": {
+                "id": "e1381f3e-3789-4ca1-be79-17c1ceacbb35",
+                "resourcePath": "objects\\object42\\object42.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -484,6 +524,14 @@
                 "id": "befa014a-c572-44e6-a99e-dd0744d56356",
                 "resourcePath": "options\\html5\\options_html5.yy",
                 "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "766869c2-26e6-47a3-9f9e-897199d6952d",
+            "Value": {
+                "id": "0808b053-a2d6-441b-8b33-b15f3f0fd0e3",
+                "resourcePath": "sprites\\answeringEmailBalloon\\answeringEmailBalloon.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -695,6 +743,14 @@
             }
         },
         {
+            "Key": "ac958110-b71b-4e74-ad7a-7c89e7974193",
+            "Value": {
+                "id": "bb9f2008-569e-428c-9430-b09d666bdfd6",
+                "resourcePath": "objects\\notepadBalloonObject\\notepadBalloonObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "adfd38d8-3ebe-4858-9f37-d2838e3d3655",
             "Value": {
                 "id": "180a076c-03f1-40d0-a17f-f7eee8441a62",
@@ -843,6 +899,14 @@
             "Value": {
                 "id": "49a07012-b4c2-4ede-ab67-f5fa754f8ac2",
                 "resourcePath": "objects\\NotepadTutorial\\NotepadTutorial.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "da1a7a37-80ef-45bb-8928-09ceccfb1eb2",
+            "Value": {
+                "id": "d4fd9d1a-6650-4945-9b22-ac495cc8102f",
+                "resourcePath": "objects\\object39\\object39.yy",
                 "resourceType": "GMObject"
             }
         },
