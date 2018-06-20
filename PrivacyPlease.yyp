@@ -87,14 +87,6 @@
             }
         },
         {
-            "Key": "0a2d40a5-4883-4405-abef-34867ca27b4c",
-            "Value": {
-                "id": "ac47a6aa-b1c5-43f5-b803-46d67c9fb5a8",
-                "resourcePath": "sprites\\notepadBalloon\\notepadBalloon.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "0ad5ae04-2ce4-4ab6-b0f3-30f65ced9da2",
             "Value": {
                 "id": "0fd186a1-3921-4908-b267-ebfaaa26fcae",
@@ -123,14 +115,6 @@
             "Value": {
                 "id": "3bb55ccd-413e-4fdc-8e29-d44ef09ae48a",
                 "resourcePath": "sprites\\Back\\Back.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "12ffe705-40d1-412b-8e59-e4737534d860",
-            "Value": {
-                "id": "2783d039-264e-4e54-8c0b-0b8baa009816",
-                "resourcePath": "sprites\\outlookNotepadIntro\\outlookNotepadIntro.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -295,14 +279,6 @@
             }
         },
         {
-            "Key": "37b4b092-aae2-4b90-bd26-9ee0b4f374bf",
-            "Value": {
-                "id": "df2117a9-e0d8-4141-b4da-3388be2cbcef",
-                "resourcePath": "objects\\notepadBalloonObject\\notepadBalloonObject.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "3a5af38c-757d-44ae-98c0-5d4b09e14e6a",
             "Value": {
                 "id": "399ffdf3-211e-4094-9a1a-9c7999a6d304",
@@ -331,14 +307,6 @@
             "Value": {
                 "id": "62e8c321-18e3-4b83-8e51-216a6da62b43",
                 "resourcePath": "objects\\ExitToMainMenu\\ExitToMainMenu.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "3ff6b914-4302-44b2-a55b-49c2fb728d07",
-            "Value": {
-                "id": "ec28b980-6d87-458f-9365-9e3c42ad0a16",
-                "resourcePath": "objects\\clippyBalloonAnsweringQuestions\\clippyBalloonAnsweringQuestions.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -543,14 +511,6 @@
             }
         },
         {
-            "Key": "7c5a2cfd-fcb1-4ba4-b622-4908486b4502",
-            "Value": {
-                "id": "d950fdcc-3b11-4037-921f-4c7c3a3f6d8f",
-                "resourcePath": "objects\\mainScreenBalloon\\mainScreenBalloon.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "7cb2fff5-2776-4cb4-b5d8-3f9f47295a7f",
             "Value": {
                 "id": "9a18ce31-5641-4155-9cd1-3e6edfef7d22",
@@ -623,15 +583,6 @@
             }
         },
         {
-
-            "Key": "9112cc3d-fa69-41ac-ab34-10c17bbafc06",
-            "Value": {
-                "id": "1bd3f972-6dba-477f-b1b1-a1b0371d72cf",
-                "resourcePath": "sprites\\answeringQuestions\\answeringQuestions.yy",
-                "resourceType": "GMSprite"
-			}
-		},
-		{
             "Key": "8e534ce9-d4df-41d4-a655-a621c2218f41",
             "Value": {
                 "id": "11dce97e-0aa8-42df-ae52-1c2fa971bee6",
