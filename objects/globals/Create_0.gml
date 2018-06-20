@@ -28,7 +28,7 @@ global.Answer2[1] = "Investigate all personal data regarding John and delete eve
 global.CorrectAnswers[1] = 2;
 global.Background[1] = "People can request that information is removed about them.";
 global.Explanation[1] = "You are obligated to delete any personal data if someone asks to. However you still might need some information for for example tax authorities. Anonymize this data as far as possible and inform the person of the steps you have taken.";
-global.Urls[1] = "https://gdpr-info.eu/art-17-gdpr/;
+global.Urls[1] = "https://gdpr-info.eu/art-17-gdpr/";
 
 //Day 2
 global.Senders[2] = "day2@day2.nl";
