@@ -9,6 +9,7 @@ global.Answer1 = [];
 global.Answer2 = [];
 global.Explanation = [];
 global.Urls = [];
+global.NotepadChecked = false;
 
 //Day 0
 global.Senders[0] = "day0@day0.nl";

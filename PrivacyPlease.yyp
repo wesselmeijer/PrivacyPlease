@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "02c37525-fb1f-4ee8-a541-09bf32a04f00",
+            "Value": {
+                "id": "6a0d179f-6747-44f8-a384-2016ea144b0d",
+                "resourcePath": "sprites\\BackButton\\BackButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "03b3f155-b7e5-4b29-896b-4ef328cd2a46",
             "Value": {
                 "id": "79edc763-e1e3-40cc-8054-a784fe9b6d39",
@@ -207,6 +215,14 @@
             }
         },
         {
+            "Key": "1f9318a6-492c-4f70-af36-459c8b320628",
+            "Value": {
+                "id": "23d71957-2ae2-418b-b229-c6bb28509fde",
+                "resourcePath": "sprites\\sprite29\\sprite29.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "231bdc65-eee3-494b-90d2-a4189a3c9415",
             "Value": {
                 "id": "6f05c4c2-ec48-498f-b3e4-592d1b742104",
@@ -315,6 +331,14 @@
             "Value": {
                 "id": "e1c139e7-1fe7-4c7d-a329-f975c1557ab1",
                 "resourcePath": "objects\\ClippyObject\\ClippyObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "385d69d5-4956-4543-a219-01326481e7e8",
+            "Value": {
+                "id": "88e0605d-2613-40f9-8cb3-2954ca308c42",
+                "resourcePath": "objects\\BackButtonAboutUs\\BackButtonAboutUs.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -524,6 +548,14 @@
                 "id": "d0b00c88-642f-48a2-b7a6-d30e03d2b215",
                 "resourcePath": "sprites\\BriefingBackground\\BriefingBackground.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "69110a94-0264-4872-9e43-0529abe0a895",
+            "Value": {
+                "id": "ed638471-6a25-41a4-afa2-c1b21fb3ffe2",
+                "resourcePath": "objects\\AboutUsObject\\AboutUsObject.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -964,6 +996,14 @@
                 "id": "122e9c42-b0a4-42b2-8bfb-5de6b1745e3d",
                 "resourcePath": "rooms\\EmailClientRoom\\EmailClientRoom.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "e3104498-dfc2-401a-a67e-70fa418f4a92",
+            "Value": {
+                "id": "f550437a-9657-46a5-a281-fa1b20a14ba2",
+                "resourcePath": "sprites\\TakeALookAtOutlook\\TakeALookAtOutlook.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
