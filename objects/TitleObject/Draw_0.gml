@@ -1,0 +1,1 @@
+draw_text_transformed(self.x, self.y, "Game Over",3,3,0)
